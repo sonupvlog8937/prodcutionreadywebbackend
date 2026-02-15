@@ -55,7 +55,7 @@ app.use("/api/sellers/revenue",revenueRouters)
 
 app.use("/api/reviews",reviewRouters)
 
-// chatboat
+// chatboat hai
 app.use("/chat",chatboatRouters)
 
 const port = process.env.PORT || 8080;
